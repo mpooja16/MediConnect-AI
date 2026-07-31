@@ -289,16 +289,52 @@ This project is an opportunity to strengthen skills in:
 
 ---
 
+
+# 👨‍💻 Developers
+
+### **Pooja M**
+
+**Final Year B.Tech – Artificial Intelligence & Data Science**
+
+* 📧 Email: [[your-email@example.com](mailto:pooja162006@gmail.com)]
+* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/misspooja16/)
+* 💻 GitHub: [https://github.com/your-username](https://github.com/mpooja16)
+
+---
+
+### **Chandrumugil A**
+
+**Final Year B.Tech – Artificial Intelligence & Data Science**
+
+* 📧 Email: [your-email@example.com](mailto:chandrumugil46@example.com)
+* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mr-c-800a43295/)
+* 💻 GitHub: [https://github.com/your-username](https://github.com/chandrumugil)
+---
+## 🚀 About the Team
+
+MediConnect AI is developed by **Pooja M** and **Chandrumugil A**, final-year B.Tech students specializing in **Artificial Intelligence & Data Science**.
+
+Our mission is to design a modern, AI-powered healthcare platform that demonstrates industry-standard software engineering practices, full-stack development, and intelligent healthcare solutions. Through this project, we aim to build a scalable, secure, and user-centric HealthTech application while strengthening our expertise in Artificial Intelligence, cloud technologies, and modern web development.
+
+We believe technology can transform healthcare by making medical services more efficient, accessible, and intelligent.
+
+## 🤝 Contributors
+
+This project is collaboratively developed as a **portfolio-quality AI HealthTech platform**, following modern software engineering principles, clean architecture, and industry best practices.
+
+Together, we aim to build a scalable, intelligent, and user-centric healthcare solution that demonstrates practical AI integration and full-stack development skills.
+
+---
 # 📄 License
 
 This project is licensed under the **MIT License**.
 
----
+Copyright (c) 2026 Pooja M & Chandrumugil A
 
-# 👨‍💻 Developer
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the conditions of the MIT License.
 
-**Pooja M**
-**Chandrumugil A**
-**Final Year B.Tech – Artificial Intelligence & Data Science**
+See the **LICENSE** file for complete details.
 
-*"Building intelligent healthcare solutions through modern software engineering and Artificial Intelligence."*
+
+### ⭐ If you find this project interesting, consider giving it a star and following our development journey.
+
