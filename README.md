@@ -298,7 +298,7 @@ This project is licensed under the **MIT License**.
 # 👨‍💻 Developer
 
 **Pooja M**
-
+**Chandrumugil A**
 **Final Year B.Tech – Artificial Intelligence & Data Science**
 
 *"Building intelligent healthcare solutions through modern software engineering and Artificial Intelligence."*
