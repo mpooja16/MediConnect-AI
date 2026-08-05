@@ -1,7 +1,7 @@
 # 🏥 MediConnect AI
 AI-powered Smart Healthcare Management Platform connecting patients, doctors, and hospitals through intelligent, secure, and scalable digital healthcare solutions.
 
-![Status](https://img.shields.io/badge/Status-Under%20Development-blue)
+![Status](https://img.shields.io/badge/Status-completed-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Project](https://img.shields.io/badge/Project-Final%20Year%20AI%20%26%20DS-orange)
 ![Domain](https://img.shields.io/badge/Domain-HealthTech-red)
